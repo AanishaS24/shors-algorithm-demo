@@ -97,7 +97,7 @@ st.header("Shor's Algorithm (Classical Simulation)")
 
 st.markdown(
     "Simulate factoring a number `N` (like an RSA modulus) using a simplified classical version "
-    "of **Shor’s Algorithm**. This shows how quantum computers could one day break RSA."
+    "of **Shor’s Algorithm**. Think of BIG numbers! This shows how quantum computers could one day break RSA."
 )
 
 N = st.number_input("Enter a number (N) to factor:", min_value=3, step=1)
