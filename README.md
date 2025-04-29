@@ -12,7 +12,7 @@ How to Run:
 2. Install the required libraries:
 pip install streamlit pycryptodome plotly
 
-3.Run the app:
+3. Run the app:
 streamlit run streamlit_Capstone.py
 
 Notes:
